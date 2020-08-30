@@ -8,3 +8,5 @@ Should also work on [Tampermonkey](http://tampermonkey.net) and [Violentmonkey](
 
 Use it with [AdsBypasser](https://adsbypasser.github.io) to make it fully automated solution.
 Enjoy!
+
+[![Run on Repl.it](https://repl.it/badge/github/JonnyShuali/netdna-storage-click-bypass)](https://repl.it/github/JonnyShuali/netdna-storage-click-bypass)
